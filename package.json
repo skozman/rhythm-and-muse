@@ -1,0 +1,22 @@
+{
+  "name": "rhythm-and-muse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "rhythm-and-muse",
+  "author": "Sam Kozman",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.19.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
