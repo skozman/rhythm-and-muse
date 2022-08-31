@@ -1,4 +1,4 @@
-import * as React from 'react'
+/* import * as React from 'react'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/layout'
 
@@ -37,4 +37,4 @@ export const query = graphql`
   }
 `
 
-export default BlogPage
+export default BlogPage */

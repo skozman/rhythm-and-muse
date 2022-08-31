@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'bryndan-write-regular', sans-serif;
+    src: url("../fonts/Bryndan_Write.ttf") format("tff");
+}
+
