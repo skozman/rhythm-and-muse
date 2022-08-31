@@ -20,20 +20,14 @@ const IndexPage = () => {
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
-                  <a
-                    href="#"
-                    className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-purple-700 hover:bg-purple-900 md:py-4 md:text-lg md:px-10"
-                  >
+                  <Link to="#" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-purple-700 hover:bg-purple-900 md:py-4 md:text-lg md:px-10">
                     Learn More
-                  </a>
+                  </Link>
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
-                  <a
-                    href="#"
-                    className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-teal-700 bg-teal-200 hover:bg-teal-400 md:py-4 md:text-lg md:px-10"
-                  >
+                  <Link to="#" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-teal-700 bg-teal-200 hover:bg-teal-400 md:py-4 md:text-lg md:px-10">
                     Enroll in Classes
-                  </a>
+                  </Link>
                 </div>
               </div>
               </div>
